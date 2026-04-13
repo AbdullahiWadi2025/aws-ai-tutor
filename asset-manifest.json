@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aws-ai-tutor/static/css/main.e6c13ad2.css",
+    "main.js": "/aws-ai-tutor/static/js/main.4d678d93.js",
+    "static/js/453.48be7c57.chunk.js": "/aws-ai-tutor/static/js/453.48be7c57.chunk.js",
+    "index.html": "/aws-ai-tutor/index.html",
+    "main.e6c13ad2.css.map": "/aws-ai-tutor/static/css/main.e6c13ad2.css.map",
+    "main.4d678d93.js.map": "/aws-ai-tutor/static/js/main.4d678d93.js.map",
+    "453.48be7c57.chunk.js.map": "/aws-ai-tutor/static/js/453.48be7c57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4d678d93.js"
+  ]
+}
