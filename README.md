@@ -3,7 +3,7 @@
 A professional, interactive React-based exam simulator designed to help learners prepare for AWS certifications (Cloud Practitioner / Solutions Architect).
 
 ## 🚀 Live Demo
-[Insert your GitHub Pages link here after you deploy!]
+👉 **[https://AbdullahiWadi2025.github.io/aws-ai-tutor](https://AbdullahiWadi2025.github.io/aws-ai-tutor )**
 
 ## ✨ Key Features
 - **60 Unique Questions**: A comprehensive bank of realistic AWS exam questions.
@@ -22,4 +22,4 @@ A professional, interactive React-based exam simulator designed to help learners
 ## 📖 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/aws-exam-simulator.git
+   git clone https://github.com/AbdullahiWadi2025/aws-ai-tutor.git
